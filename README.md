@@ -1,6 +1,8 @@
 # Data.Guard
 A simple convenience tool for Frontend data validate. The only thing you need to do is edit the config.json file. 
 
+![Mou icon](https://github.com/Daoling/Data.Guard/blob/master/ScreenShot.png)
+
 # What is Data.Guard
 Data.Guard is a friend of Frontend developers and Testers. It use nodejs to emulate data transimission. Tell the config.json file what URL you want to connect, and what data format you expect to receive. The tool will response you a menu, and help you fix the problem you usually encountered in frontend development.
 
