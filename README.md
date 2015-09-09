@@ -6,6 +6,13 @@ A simple convenience tool for Frontend data validate. The only thing you need to
 # What is Data.Guard
 Data.Guard is a friend of Frontend developers and Testers. It use nodejs to emulate data transimission. Tell the config.json file what URL you want to connect, and what data format you expect to receive. The tool will response you a menu, and help you fix the problem you usually encountered in frontend development.
 
+# How to Start
+First you need [Node.js][id].
+[id]: https://nodejs.org/en/ "Markdown editor on Mac OS X"
+
+Then downloading the dependencies
+
+	npm install
 
 # How to edit the config.json
 If the server need Auth. Pls fill the key of "username" and "password".
