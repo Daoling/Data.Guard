@@ -3,5 +3,5 @@
 "method":"POST",
 "name":"",
 "password":"",
-"data": "daoling"
+"data": {"name":"daoling","score":"60"}
 }

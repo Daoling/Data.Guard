@@ -1,0 +1,28 @@
+{
+  "name": "data.guard",
+  "version": "0.0.1",
+  "description": "A simple convenience tool for Frontend data validate. The only thing you need to do is edit the config.json file.",
+  "main": "main.js",
+  "dependencies": {
+    "request": "^2.61.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daoling/Data.Guard.git"
+  },
+  "keywords": [
+    "data",
+    "validate",
+    "frontend"
+  ],
+  "author": "Daoling.Song",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daoling/Data.Guard/issues"
+  },
+  "homepage": "https://github.com/Daoling/Data.Guard#readme"
+}
