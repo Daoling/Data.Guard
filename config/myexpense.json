@@ -1,0 +1,25 @@
+[
+   {
+         "url": "http://daoling.aliapp.com/type",
+         "method": "POST",
+         "auth": { "mode": "Auth2", "header": "Authritaztion: banner @base3"},
+         "request_data": {},
+         "header": {},
+         "validation":[
+         {"mode":"Jsonkey","standard_data":""},
+         {"mode":"Jsonkey","standard_data":""}
+         ]
+         
+   },
+   {
+         "url": "http://daoling.aliapp.com/list",
+         "method": "POST",
+         "auth": { "mode": "Auth2", "header": "Authritaztion: banner @base3"},
+         "request_data": {},
+         "header": {},
+         "validation":[
+         {"mode":"Jsonkey","standard_data":""},
+         {"mode":"Jsonkey","standard_data":""}
+         ]
+   }
+]

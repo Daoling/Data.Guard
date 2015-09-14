@@ -1,7 +1,25 @@
-{
-"url": "http://daoling.aliapp.com",
-"method":"POST",
-"name":"",
-"password":"",
-"data": {"name":"daoling","score":"60"}
-}
+[
+   {
+   		"url": "http://daoling.aliapp.com/type",
+   		"method": "POST",
+   		"auth": { "mode": "Auth2", "header": "Authritaztion: banner @base3"},
+   		"request_data": {},
+   		"header": {},
+   		"validation":[
+         {"mode":"","standard_data":""},
+         {"mode":"","standard_data":""}
+         ]
+         
+   },
+   {
+   		"url": "http://daoling.aliapp.com/list",
+   		"method": "POST",
+   		"auth": { "way": "auth2.0_acn_jwt", "header": "Authritaztion: banner @base3"},
+   		"request_data": {},
+   		"header": {},
+   		"validation":[
+         {"mode":"","standard_data":""},
+         {"mode":"","standard_data":""}
+         ]
+   }
+]
